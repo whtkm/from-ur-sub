@@ -1,0 +1,72 @@
+
+html{
+    background-color:rgba(60, 57, 223, 0.719);
+}
+.judul{
+    width: 300px;
+    text-align: center;
+    background-color: rgb(166, 64, 230);
+    font-family: sans-serif;
+    text-align: center;
+    margin: 70% auto;
+    border-radius: 20px;
+    font-weight: bolder;
+    border: #1a1a1a solid 2px;
+    box-shadow: 0 0 3px;
+}
+
+.popup {
+    width: 250px;
+    height: 250px;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #000;
+    background-color: #fdfdfd;
+    border-radius: 20px;
+    padding: 20px;
+    z-index: 1000;
+  }
+  
+  .popup-content {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  #nameInput {
+    width: fit-content;
+    height: 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 1px 1px black;
+  }
+
+  .popup-content img {
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .popup-content button {
+    background-color: rgb(255, 200, 117);
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    box-shadow: 0 0 1px black;
+  }
+  
+  .open{
+    font-size: 24px;
+    font-weight:600;
+    width: 200px;
+    padding: 5px 0;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -60%;
+    box-shadow: 0 0 3px black;
+  }
+  
+

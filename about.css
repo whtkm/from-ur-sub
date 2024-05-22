@@ -1,0 +1,119 @@
+html {
+    background-image: url(photos/pixel-heart.png);
+}
+
+.headeb {
+    margin: auto auto;
+    width: 300px;
+    height: 70px;
+    border-radius: 50px;
+    font-family: sans-serif;
+    background-color: rgba(153, 75, 2, 0.753);
+    box-shadow: 0 0 0 2px black;
+    box-shadow: 0 0 5px 1px black;
+}
+
+.headeb h1 {
+    text-align: center;
+    font-size: 23px;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+}
+
+.profile1 {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.profile {
+    box-shadow: 0 0 5px black;
+    width: 250px;
+    border-radius: 20px;
+}
+
+.urphotos {
+    width: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 3px black;
+    border: 0.2px solid black;
+    margin: 5px 0 0 5px ;
+    flex-shrink: 0;
+}
+
+.conv1 {
+    display: flex;
+    align-items: center;
+}
+
+.conver1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 2% 2%;
+    width: 200px;
+    margin-left: 5px;
+    box-shadow: 0 0 3px black;
+}
+
+.kevin {
+    width: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 3px black;
+    border: 0.2px solid black;
+    margin: 5px 0 0 5px ;
+    flex-shrink: 0;
+}
+
+.conv2 {
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.conver2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 2% 2%;
+    width: 200px;
+    margin-left: 5px;
+    box-shadow: 0 0 3px black;
+}
+
+.our {
+    margin-top: -20px;
+}
+
+.imp {
+    background-color: lightblue;
+    width: 320px;
+    text-align: center;
+    margin: auto auto;
+    border: 2px solid black;
+}
+
+.headimp{
+    margin-top: 0;
+    font-family: "Ubuntu";
+    font-weight: 700;
+}
+.paragrap{
+    font-family: "Patrick Hand SC";
+    font-size: 20px;
+    line-height: 0.9;
+    margin-top: -10px;
+    text-align: left;
+    padding: 0 2% 2% 2%;
+}
+
+.jadi-bold{
+    font-weight: bold;
+}
